@@ -1,0 +1,36 @@
+.swiper-container,body,html{width:100%;height:100%}
+body{font-size: 16px;line-height: 1.42857143}
+.swiper-slide{width:100%;height:100%}
+.swiper-slide{background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+.container-md{width: 1040px;padding: 0 20px;margin: auto;overflow: hidden}
+.swiper-container{position: relative}
+.header{z-index:10;position:absolute;top:0;left: 50%;margin-left:-540px;width: 1080px;height: 49px;padding: 15px 0}
+.heading-wrap{z-index:10;width: 1080px;height:146px;position: absolute;top: 50%;left: 50%;margin: -73px 0 0 -540px;}
+.new{width: 1263px;height: 42px;z-index: 10;position: absolute;bottom: 0;left: 50%;
+   margin: 0 0 0 -540px}
+.header1{width: 597px;height: 38px;display: inline-block;float: left}
+.header2{width: 442px;height: 22px;display: inline-block;float: right}
+.header2 li{float: left;font-weight: 400;}
+.header2 li a{color: white;padding:8px 20px }
+.heading-wrap .font{font-size: 400%;width: 100%;height:66px;margin: 0 0 50px 0}
+.heading-wrap a{width: 242px;height: 31px;padding: 14px 26px;background:rgba(0,0, 0, .6);font-size:22px;font-weight: 700;color: #fff }
+.heading-wrap a:hover{background: rgba(0,0,0,.8)}
+.new .new1{background-color: red;width: 36px;height: 18px;padding: 0 8px;font-size: 12px;color: #ffffee; display: inline-block;border-radius: 4px}
+.new1 a{width: 1080px;height: 22px;}
+.new2{width: 359px;height: 22px;display: inline-block;font-size: 16px;font-weight: 300;color: #ffffee}
+.main .main1{width: 25%;height: 260px;float: left;
+background-repeat: no-repeat;background-position: center;background-size: cover;font-size: 24px;font-weight: 400;text-align: center;padding: 37px;box-sizing: border-box;border: 2px solid #fff}
+.main .main1 a{color: #ffffee}
+.main{margin-left: -3px;
+    margin-top: 3px;}
+.meta{width: 1263px;height: 140px}
+.meta-o{width: 1040px;height: 140px;padding: 0 20px}
+.links{width: 1080px;height: 140px;text-align: center}
+.link{width: 346px;height: 140px;float: left;padding: 45px 0;}
+.link .link1{width: 50px;height: 50px;background: no-repeat center;float: left}
+.link1 img{width: 100%}
+
+
+
